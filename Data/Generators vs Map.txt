@@ -1,0 +1,10 @@
+2. Key Differences:
+Feature	Generators	map()
+Creation	Defined using yield in a function or with generator expressions.	Built-in function that applies a given function to an iterable.
+Use Case	Custom, complex logic that yields values lazily.	Apply a transformation function to each element in an iterable.
+State	Can maintain internal state between yields.	Stateless; purely applies a function to each element.
+Flexibility	Extremely flexible: you can write loops, conditionals, etc.	Limited to the function provided (applies to each element).
+Multiple Iterables	Not directly supported (though can be implemented).	Can work with multiple iterables simultaneously.
+Syntax	More verbose: requires defining functions with yield.	Compact: one-liner for applying functions to iterables.
+Reusability	Generators can be reused via new instances, though once iterated, they cannot be reset.	map() can be applied repeatedly, but the object itself is an iterator and cannot be reused once consumed.
+Performance	Efficient for custom, complex generation logic, especially when you need to maintain state.

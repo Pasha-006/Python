@@ -1,0 +1,8 @@
+Feature	List Comprehension	map()
+Return Type	Always returns a list.	        Returns a map object (an iterator),                                                  which can be converted to a list.
+Syntax	                                    More flexible and readable, especially with filtering.	                             Requires a function (or lambda) to apply to each item.
+Performance	Typically faster in small data sets as it avoids function calls overhead.	Lazy evaluation: more memory efficient for large datasets because of lazy evaluation.
+Function Requirement	No function is needed; any expression can be used in the comprehension.	Requires a function (built-in or custom) to apply to each element.
+Multiple Iterables	Can be done with nested comprehensions, though more complex.	Can operate on multiple iterables simultaneously (pairwise application).
+Flexibility	Can include conditions for filtering elements.	No filtering; strictly applies the function to each element.
+Readability	More readable for most people, especially for simple transformations.	Less readable, particularly with more complex lambdas.
