@@ -2,3 +2,4 @@ ipykernel
 requests
 numpy 
 pandas
+scipy #for statistical info
