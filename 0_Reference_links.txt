@@ -9,3 +9,14 @@ https://github.com/python/cpython/blob/3.12/Lib/functools.py
 
 
 https://docs.python.org/3/library/statistics.html
+
+
+
+
+logging
+
+
+https://docs.python.org/3/library/logging.html
+
+https://docs.python.org/3/howto/logging-cookbook.html#multiple-handlers-and-formatters
+

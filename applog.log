@@ -1,0 +1,19 @@
+2024-10-14 22:18:21 - MyLogger - WARNING: This is a warning message
+2024-10-14 22:18:21 - MyLogger - ERROR: This is an error message
+2024-10-14 22:18:21 - MyLogger - CRITICAL: This is a critical message
+2024-10-14 22:47:24 - MyLogger - INFO: Hello this is info text
+2024-10-14 22:47:24 - MyLogger - WARNING: this is warning message
+2024-10-14 22:47:24 - MyLogger - ERROR: this is error
+2024-10-14 22:47:24 - MyLogger - CRITICAL: this is critical message
+2024-10-14 22:47:44 - MyLogger - INFO: Hello this is info text
+2024-10-14 22:47:44 - MyLogger - WARNING: this is warning message
+2024-10-14 22:47:44 - MyLogger - ERROR: this is error
+2024-10-14 22:47:44 - MyLogger - CRITICAL: this is critical mes
+2024-10-14 22:49:05 - MyLogger - INFO: Hello this is info text
+2024-10-14 22:49:05 - MyLogger - WARNING: this is warning message
+2024-10-14 22:49:05 - MyLogger - ERROR: this is error
+2024-10-14 22:49:05 - MyLogger - CRITICAL: this is critical mes
+2024-10-14 22:49:20 - MyLogger - INFO: Hello this is info text
+2024-10-14 22:49:20 - MyLogger - WARNING: this is warning message
+2024-10-14 22:49:20 - MyLogger - ERROR: this is error
+2024-10-14 22:49:20 - MyLogger - CRITICAL: this is critical mes
