@@ -2,4 +2,8 @@ ipykernel
 requests
 numpy 
 pandas
+flask
 scipy #for statistical info
+seaborn
+scikit-learn
+statmodels
