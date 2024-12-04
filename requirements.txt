@@ -1,9 +1,4 @@
-ipykernel
-requests
-numpy 
-pandas
-flask
-scipy #for statistical info
-seaborn
-scikit-learn
-statmodels
+pandas==1.3.5
+numpy==1.21.6
+seaborn==0.12.2
+matplotlib.pyplot==3.5.3
