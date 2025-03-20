@@ -1,0 +1,12 @@
+https://github.com/EbookFoundation/free-programming-books
+
+
+https://github.com/mlabonne/llm-course
+
+
+https://github.com/iusztinpaul/hands-on-llms
+
+https://github.com/swyxio/ai-notes
+https://github.com/CodingChallengesFYI/SharedSolutions
+
+https://github.com/dair-ai/ML-Papers-of-the-Week
