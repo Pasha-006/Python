@@ -7,3 +7,5 @@ scikit-learn
 streamlit
 nltk
 svgling
+gensim
+bs4

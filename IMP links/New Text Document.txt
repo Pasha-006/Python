@@ -9,4 +9,7 @@ https://github.com/iusztinpaul/hands-on-llms
 https://github.com/swyxio/ai-notes
 https://github.com/CodingChallengesFYI/SharedSolutions
 
+
+https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/tree/main/26-CompleteNLP%20For%20Machine%20Learning/Practicals
+
 https://github.com/dair-ai/ML-Papers-of-the-Week
